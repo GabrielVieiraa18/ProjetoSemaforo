@@ -1,4 +1,4 @@
-## Project Randomizer and Status Checker
+## Project traffic light crossing simulator
 link github: https://github.com/GabrielVieiraa18/ProjetoSemaforo)
 
 language: "wokwi"
@@ -34,7 +34,7 @@ Pedestrian Activation: Ensuring pedestrian safety when required.
 Cycle of States: Verifying the sequence of traffic light states.    
 
 ## Pictures:
-<img src=diagrama.png>
+<img src=diagrama.PNG>
 
 ## Inputs:
 
